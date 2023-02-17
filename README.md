@@ -21,10 +21,9 @@ npm install
 6. เชิญบอทเข้าเชิฟเวอร์ไปที่เมนู OAuth2 > Url generator ตรง Scopes ให้เลือกเป็น Bot แล้ว Permission เลือกเป็นสิทธ์ที่เราอยากจะให้บอท แล้ว กด Coppy ได้เลย
 
 ## วิธีการใช้
-1. เปลื่ยนไฟล์ env.example เป็น .env
-2. TOKEN ไปเอามาจาก [DiscordDevPortal](https://discord.com/developers/applications)
-4. วิธีเปิดใช้งานบอท
+1. TOKEN ไปเอามาจาก [DiscordDevPortal](https://discord.com/developers/applications)
+2. วิธีเปิดใช้งานบอท
 ```
  node index.js
 ```
-5. หากพบ Error หรือ มีอะไรผิด ให้ ติดต่อผ่าน Discord `FujaTyping#0148`
+3. หากพบ Error หรือ มีอะไรผิด ให้ ติดต่อผ่าน Discord `FujaTyping#0148`
