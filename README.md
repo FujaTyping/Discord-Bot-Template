@@ -22,8 +22,9 @@ npm install
 
 ## วิธีการใช้
 1. TOKEN ไปเอามาจาก [DiscordDevPortal](https://discord.com/developers/applications)
-2. วิธีเปิดใช้งานบอท
+2. เอา TOKEN มาใส่ในไฟล์ .env
+3. วิธีเปิดใช้งานบอท
 ```
  node index.js
 ```
-3. หากพบ Error หรือ มีอะไรผิด ให้ ติดต่อผ่าน Discord `FujaTyping#0148`
+4. หากพบ Error หรือ มีอะไรผิด ให้ ติดต่อผ่าน Discord `FujaTyping#0148`
