@@ -1,0 +1,21 @@
+{
+  "name": "Templatebot",
+  "version": "1.0.0",
+  "description": "Discord js V.14 Templatebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">19.3.0",
+    "npm": ">8.19.2"
+  },
+  "keywords": [],
+  "author": "FujaTyping",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
